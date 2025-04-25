@@ -34,7 +34,7 @@ const Resume = () => {
             <h2 className="text-xl font-semibold mb-2">Specialized CV</h2>
             <div className="flex gap-4 justify-center">
               <a
-                href="/AnanyaSpecializedCV.pdf"
+                href="/ANYCVspecialized.pdf"
                 download
                 className="hover:text-blue-900 inline-block px-6 py-3 border border-white/30 rounded-md backdrop-blur-md hover:border-white/70 transition"
               >
