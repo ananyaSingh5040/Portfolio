@@ -49,7 +49,6 @@ const Resume = () => {
             </div>
           </div>
         </div>
-
         {/* --- CV Iframes --- */}
         <div className="grid gap-16">
           {/* Main CV Iframe */}
