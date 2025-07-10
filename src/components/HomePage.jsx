@@ -14,7 +14,7 @@ const HomePage = () => {
             <img
               src="/ananyaImage.jpg"
               alt="Ananya Singh"
-              className="w-60 h-60 rounded-full mb-6"
+              className="w-60 h-70 rounded-full mb-6"
             />
             <h1 className="text-4xl font-semibold mb-2">Ananya Singh</h1>
             <p className="text-xl font-light mb-6">MERN-Stack Enthusiast</p>
